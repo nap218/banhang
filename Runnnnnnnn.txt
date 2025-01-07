@@ -1,0 +1,12 @@
+Cho người mới bắt đầu
+
+Chạy máy ảo trên android studio (Chưa có thì cài)
+Kiểm tra xem expo cài chưa:
+exexpo --version
+Chưa cài thì cài:
+npm install -g expo-cli
+Chạy:
+npm install
+npx expo start
+Press a │ open Android
+
